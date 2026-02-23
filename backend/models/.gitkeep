@@ -1,0 +1,10 @@
+# Models Directory
+
+Place your ONNX model files here.
+
+Expected file: `predictor.onnx`
+
+To generate the model, run:
+```bash
+python ../export_model_to_onnx.py
+```

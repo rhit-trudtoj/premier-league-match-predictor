@@ -1,0 +1,27 @@
+# Rust
+target/
+Cargo.lock
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Models (may be large)
+models/*.onnx
+
+# Database
+*.db
+*.sqlite
